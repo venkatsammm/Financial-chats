@@ -1,7 +1,5 @@
 
-  <title>Financial Chat Bot - README</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
+
 <body>
   <header>
     <h1>💡 Financial Chat Bot - Powered by MERN Stack, Socket.io & Firebase 💸</h1>
