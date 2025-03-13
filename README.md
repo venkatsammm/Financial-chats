@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Financial Chat Bot - README</title>
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -104,29 +100,5 @@ npm run client
       <li>🔹 Payment Gateway Integration for Premium Advice</li>
     </ul>
   </section>
-
-  <section class="footer">
-    <h2>🔗 Live Demo:</h2>
-    <p><a href="https://yourfinancialchatbot.live">Visit Live Chat Bot 🚀</a></p>
-
-    <h3>🙌 Contributors:</h3>
-    <p>👨‍💻 Your Name | 👨‍💻 Your Teammate's Name</p>
-
-    <p>⭐ If you like this project, give it a star! 🌟</p>
-  </section>
-
-  <style>
-    body { font-family: Arial, sans-serif; background-color: #f7f9fc; margin: 0; padding: 0; }
-    header { background-color: #222; color: white; padding: 20px; text-align: center; }
-    section { margin: 20px 50px; }
-    h2 { color: #2b6cb0; }
-    ul { list-style-type: none; padding-left: 0; }
-    li { margin-bottom: 8px; }
-    table { width: 100%; border-collapse: collapse; }
-    table, th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-    pre { background-color: #eee; padding: 10px; border-radius: 8px; }
-    a { color: #2b6cb0; text-decoration: none; font-weight: bold; }
-  </style>
-
 </body>
 </html>
